@@ -1,0 +1,9 @@
+node_modules/
+auth/
+auth_*/
+auth_info_baileys/
+creds.json
+*.jpg
+*.png
+*.mp4
+.env
